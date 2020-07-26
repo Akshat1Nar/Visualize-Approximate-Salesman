@@ -47,4 +47,4 @@ Implimentation is of Christofides Algorithm
 
 >**pip3 install kivy**
 
->**python3 main.py**
+>**python3 gui.py**
