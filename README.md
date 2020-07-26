@@ -1,7 +1,7 @@
 # Visualize-Approximate-Salesman
 
 
-![](Png/Template.gif)
+![](/Template.gif)
 
 ### This project is a seemingly basic and elegent  *GUI*  implementation of Christofides_algorithm
 
